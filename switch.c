@@ -25,4 +25,9 @@ switch (day) {
 	case 7:
 		printf("Saturday\n");
 		break;
+	default:
+		printf("Invalid integer");
+
+	}
+
 
