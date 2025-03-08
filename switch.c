@@ -29,5 +29,6 @@ switch (day) {
 		printf("Invalid integer");
 
 	}
-
+return 0;
+}
 
