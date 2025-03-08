@@ -16,4 +16,13 @@ switch (day) {
 	case 4:
 		printf("Wednesday\n");
 		break;
+	case 5:
+		printf("Thursday\n");
+		break;
+	case 6:
+		printf("Friday\n");
+                break;
+	case 7:
+		printf("Saturday\n");
+		break;
 
